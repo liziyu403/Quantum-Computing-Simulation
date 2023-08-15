@@ -1,6 +1,6 @@
 # Quantum-Computing-Simulation
 
-------
+
 
 Welcome to the README file of this project! Here, we will provide a brief overview of quantum theory and quantum algorithms, along with how to use the Qiskit framework to implement these algorithms. Let's get started!
 
